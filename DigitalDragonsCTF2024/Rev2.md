@@ -9,8 +9,6 @@ Chúng ta thấy ở đây chương trình đã yêu cầu chúng ta nhập 1 đ
 ![image](https://github.com/user-attachments/assets/a14ecae2-0538-429a-b4bc-072786d69cfd)
 
 Tôi sẽ viết 1 đoạn giải mã bằng python để decryp:
-
-# Chuỗi encrpFlag đã được mã hóa
 ```
 encrpFlag = [
     0x4D, 0x47, 0x52, 0x4C, 0x38, 0x83, 0x83, 0x4E, 0x7B, 0x4D, 0x81, 0x7C,
